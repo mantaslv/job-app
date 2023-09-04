@@ -1,6 +1,8 @@
+import { Typography } from '@mui/material';
+
 const Home = () => {
     return (
-        <h1>Apply-Ally</h1>
+        <Typography variant='h2' component='h1'>Apply-Ally</Typography>
     );
 }
 
