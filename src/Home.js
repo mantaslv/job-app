@@ -8,7 +8,6 @@ const Home = () => {
             alignItems="center"
             spacing={2}
         >
-            <Grid item><Typography variant="h2" component="h1">Test</Typography></Grid>
             <Grid item><Typography variant="h2" component="h1">Apply-Ally</Typography></Grid>
             <Grid item><Typography variant="h5">Add old cv</Typography></Grid>
             <Grid item><TextField label="Title" sx={{ width: '500px' }}/></Grid>
